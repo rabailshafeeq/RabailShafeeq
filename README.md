@@ -1,39 +1,54 @@
-## Hi, I'm Rabail 👩‍💻
+<h2 align="left">Hi, I'm Rabail 👩‍💻</h2>
 
-**Data Analyst | Microsoft Fabric Certified | Power BI | SQL**
+<p>
+  <b>Data Analyst | Microsoft Fabric Certified | Power BI | SQL</b>
+</p>
+
+<p>
+💡 I create dashboards that are both insightful and visually clean.
+</p>
 
 ---
 
-A Data Analyst with expertise in data analysis and reporting, dashboard creation, and data visualization.
+### 🔹 About Me
 
-- Querying data using SQL  
-- Cleaning and analyzing data for reporting  
-- Creating dashboards in Power BI  
-- Generating reports and insights  
+I help businesses turn raw data into meaningful insights through clean dashboards and structured analysis.
+
+- Querying and extracting data using SQL  
+- Cleaning and transforming data for reporting  
+- Building interactive dashboards in Power BI  
+- Generating reports and business insights  
 - Data visualization and storytelling  
 
 ---
 
-## 📊 Projects
+### 📊 Projects
 
-Welcome to my portfolio, where I showcase my projects.
+- **Sales Dashboard (Power BI)**  
+  Designed an interactive dashboard to track revenue, trends, and top-performing products.
 
-- Sales Dashboard (Power BI)  
-- Customer Insights Dashboard  
-- Marketing Performance Dashboard  
+- **Customer Insights Dashboard**  
+  Analyzed customer behavior and segmentation for better decision-making.
 
----
-
-## 🛠 Tools
-
-- **Languages:** SQL, Python  
-- **Database:** MySQL, PostgreSQL  
-- **Visualization:** Power BI  
-- **Other:** Microsoft Fabric  
+- **Marketing Performance Dashboard**  
+  Visualized campaign performance and key marketing metrics.
 
 ---
 
-## 🤝 Connect with Me
+### 🛠 Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
+
+---
+
+### 🤝 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/)  
 - [Hire me on Upwork](https://www.upwork.com/)  
+
+---

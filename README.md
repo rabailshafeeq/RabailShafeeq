@@ -36,7 +36,8 @@ Welcome to my portfolio, where I showcase my projects.
 ---
 
 ## 🤝 Connect with Me
-- LinkedIn: [Your Link]  
-- Upwork: [Your Link]  
+- LinkedIn: https://www.linkedin.com/in/rabailshafeeq
+- 
+- Upwork:   
 
 ---

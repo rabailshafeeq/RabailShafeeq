@@ -1,47 +1,42 @@
-# 👋 Hi, I'm Rabail Shafeeq  
+# 👋 Introducing Myself
 
-Data Engineer & AI Engineer passionate about building scalable data pipelines, real-time streaming systems, and cloud-based analytics using Python, SQL, Spark, Kafka, and AWS.  
-Microsoft Fabric Certified.
-
----
-
-## 🚀 What I Do
-- Build ETL & ELT data pipelines  
-- Design data warehouses & data models  
-- Process large-scale data using Apache Spark  
-- Stream real-time data using Kafka  
-- Build cloud data platforms on AWS  
-- Develop machine learning pipelines  
+## Hi, I'm Rabail 👩‍💻  
+**Data Analyst | Microsoft Fabric Certified | Power BI | SQL**
 
 ---
 
-## 🛠 Tech Stack
-**Languages:** Python, SQL  
-**Big Data:** Apache Spark, Kafka  
-**Cloud:** AWS (S3, Glue, Lambda, Athena), Microsoft Fabric  
-**Databases:** PostgreSQL, MySQL  
-**Analytics:** PowerBI, Tableau  
-**Machine Learning:** Scikit-learn, Pandas, NumPy  
+Hello, I'm Rabail. A Data Analyst with expertise in data analysis and reporting, dashboard creation, and data visualization.
 
 ---
 
-## 📂 Featured Projects
-I am currently building production-grade data engineering projects.  
-Stay tuned 🚀  
-
-Soon you will find:
-- Real-time Kafka pipelines  
-- Cloud-based data lakes  
-- Spark ETL systems  
-- SQL data warehouses  
-- ML-powered analytics  
+## 🔹 What I Do
+- Querying data using SQL  
+- Data cleaning and analysis  
+- Creating dashboards in Power BI  
+- Generating reports and insights  
+- Data visualization and storytelling  
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/rabailshafeeq  
-- Email: rabailshafeeq312@gmail.com  
+## 📊 Projects
+Welcome to my portfolio, where I showcase my projects.
+
+- Sales Dashboard (Power BI)  
+- Customer Insights Dashboard  
+- Marketing Performance Dashboard  
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+## 🛠 Tools & Technologies
+- **Languages:** SQL, Python  
+- **Database:** MySQL, PostgreSQL  
+- **Visualization:** Power BI  
+- **Other:** Microsoft Fabric  
+
+---
+
+## 🤝 Connect with Me
+- LinkedIn: [Your Link]  
+- Upwork: [Your Link]  
+
+---

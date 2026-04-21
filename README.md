@@ -1,28 +1,18 @@
-<h1 align="left">👋 Introducing Myself</h1>
+## Hi, I'm Rabail 👩‍💻
 
-<p align="center">
-  <img src="banner.png" alt="Rabail Banner" width="100%" />
-</p>
+**Data Analyst | Microsoft Fabric Certified | Power BI | SQL**
 
-<h2 align="center">Hi, I'm Rabail 👩‍💻</h2>
+---
 
-<p align="center">
-  <b>Data Analyst | Microsoft Fabric Certified | Power BI | SQL</b>
-</p>
+A Data Analyst with expertise in data analysis and reporting, dashboard creation, and data visualization.
 
-<br>
+- Querying data using SQL  
+- Cleaning and analyzing data for reporting  
+- Creating dashboards in Power BI  
+- Generating reports and insights  
+- Data visualization and storytelling  
 
-Hello, I'm Rabail. A Data Analyst with expertise in data analysis and reporting, dashboard creation, and data visualization.
-
-<ul>
-  <li>Querying data using SQL.</li>
-  <li>Cleaning and analyzing data for reporting.</li>
-  <li>Creating dashboards in Power BI.</li>
-  <li>Generating reports and insights.</li>
-  <li>Data visualization and storytelling.</li>
-</ul>
-
-<br>
+---
 
 ## 📊 Projects
 
@@ -32,7 +22,7 @@ Welcome to my portfolio, where I showcase my projects.
 - Customer Insights Dashboard  
 - Marketing Performance Dashboard  
 
-<br>
+---
 
 ## 🛠 Tools
 
@@ -41,9 +31,9 @@ Welcome to my portfolio, where I showcase my projects.
 - **Visualization:** Power BI  
 - **Other:** Microsoft Fabric  
 
-<br>
+---
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/)
-- [Hire me on Upwork](https://www.upwork.com/)
+- [LinkedIn](https://www.linkedin.com/)  
+- [Hire me on Upwork](https://www.upwork.com/)  

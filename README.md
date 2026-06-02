@@ -1,98 +1,152 @@
-<h1 align="center">Hi 👋, I'm Rabail Shafeeq</h1>
+# Rabail Shafeeq
 
-<h3 align="center">
-Data Engineer | AI Engineer | Data Analyst | Microsoft Fabric Certified
-</h3>
+## Data Analyst | Business Intelligence Analyst | Microsoft Fabric Certified
 
-<p align="center">
-Building scalable data pipelines, interactive dashboards, and AI-driven solutions using Python, SQL, Power BI, Spark & AWS.
-</p>
+Data Science graduate with expertise in Power BI, SQL, Excel, Python, and Microsoft Fabric. I help businesses transform raw data into meaningful insights through dashboard development, business intelligence solutions, data visualization, and analytical reporting.
+
+My work focuses on identifying trends, optimizing business performance, and supporting data-driven decision-making through modern analytics tools and technologies.
 
 ---
 
-## 🚀 About Me
+## Professional Summary
 
-I am passionate about transforming raw data into actionable insights through analytics, automation, and visualization.
+I specialize in designing analytics solutions that enable organizations to understand customer behavior, monitor business performance, and uncover growth opportunities.
 
-🔹 Skilled in SQL, Python, Power BI, Microsoft Fabric & Spark  
-🔹 Experienced in dashboard development and business analytics  
-🔹 Interested in Data Engineering, AI/ML, and cloud technologies  
-🔹 Focused on building clean, scalable, and impactful data solutions  
+Areas of expertise include:
 
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-</p>
+* Business Intelligence and Dashboard Development
+* Power BI Reporting and DAX
+* SQL Data Analysis and Query Optimization
+* Microsoft Fabric Analytics Solutions
+* Data Cleaning and Transformation
+* Customer Segmentation and Predictive Analytics
+* Sales and Revenue Analysis
+* KPI Development and Performance Tracking
+* Data Visualization and Storytelling
 
 ---
 
-## 📌 Featured Projects
+## Technical Skills
 
-### 📊 HR Analytics Dashboard in Excel
-Analyzed workforce retention, attrition trends, and compensation insights using advanced Excel dashboards and business KPIs.
+### Analytics & Business Intelligence
 
-🔗 [View Project](https://github.com/rabailshafeeq/HR-Analytics-Dashboards-in-Excel-Workforce-Retention-Compensation-Insights)
+* Power BI
+* Microsoft Fabric
+* Excel
+* DAX
+* Power Query
 
----
+### Programming & Data Analysis
 
-### 🛒 E-Commerce Business Analytics Using SQL & Streamlit
-Built an end-to-end analytics solution using advanced SQL queries and interactive Streamlit dashboards to analyze customer behavior, sales trends, and revenue performance.
+* Python
+* SQL
+* Pandas
+* NumPy
+* Scikit-learn
 
-🔗 [View Project](https://github.com/rabailshafeeq/E-Commerce-Business-Analytics-Using-Advanced-SQL-and-Streamlit)
+### Databases
 
----
+* SQL Server
+* MySQL
+* PostgreSQL
 
-### 🏬 Retail Analytics Recommendation System
-Developed a retail recommendation system to analyze customer purchasing behavior and improve product recommendations.
+### Data Visualization
 
-🔗 [View Project](https://github.com/rabailshafeeq/retail-analytics-recommendation-system)
+* Power BI
+* Streamlit
+* Matplotlib
+* Seaborn
 
----
+### Machine Learning
 
-### 💳 Credit Card Business Analysis Dashboard
-Created a Power BI dashboard using DAX to monitor revenue trends, customer segmentation, and business KPIs for credit card analytics.
-
-🔗 [View Project](https://github.com/rabailshafeeq/Credit-Card-Business-Analysis-Dashboard-using-Power-BI-DAX)
-
----
-
-
-## 📜 Certifications
-
-🏅 Microsoft Fabric Certified  
-🏅 Data Analytics & Visualization Projects  
-🏅 SQL & Power BI Hands-on Experience  
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/rabailshafeeq">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+* Classification Models
+* Clustering
+* Customer Segmentation
+* Recommendation Systems
 
 ---
 
-<p align="center">
-✨ Turning data into insights and insights into impact ✨
-</p>
+## Featured Projects
+
+### Workforce Performance and Employee Retention Dashboard
+
+Developed an HR analytics dashboard to evaluate workforce performance, employee retention, compensation trends, and key human resource metrics. The solution provides actionable insights that support workforce planning and employee management decisions.
+
+**Tools Used:** Excel, Data Visualization, Business Analytics
+
+---
+
+### E-Commerce Business Analytics Platform
+
+Built an end-to-end analytics solution using SQL and Streamlit to analyze customer behavior, product performance, sales trends, and revenue metrics. The interactive dashboard enables businesses to monitor performance and make informed strategic decisions.
+
+**Tools Used:** SQL, Python, Streamlit
+
+---
+
+### Customer Segmentation for Targeted Marketing
+
+Applied machine learning clustering techniques to identify customer groups based on purchasing behavior. The analysis helps organizations improve marketing effectiveness and customer targeting strategies.
+
+**Tools Used:** Python, K-Means Clustering, Data Analysis
+
+---
+
+### Banking Customer Spending and Revenue Analysis Dashboard
+
+Designed an interactive Power BI dashboard to analyze customer spending behavior, revenue trends, and business KPIs. The dashboard provides executives with a comprehensive view of financial performance and customer activity.
+
+**Tools Used:** Power BI, DAX, Data Modeling
+
+---
+
+### Retail Analytics Recommendation System
+
+Developed a recommendation engine to analyze customer purchasing patterns and suggest relevant products. The project demonstrates how machine learning can support customer engagement and increase sales opportunities.
+
+**Tools Used:** Python, Machine Learning
+
+---
+
+### Sales Performance Analytics Dashboard
+
+Created a comprehensive sales analytics solution integrating SQL and Power BI to monitor sales performance, profitability, customer trends, and operational KPIs.
+
+**Tools Used:** SQL, Power BI, DAX
+
+---
+
+## Certifications
+
+* Microsoft Fabric Certified
+* Data Analytics and Visualization
+* SQL for Data Analysis
+* Business Intelligence and Reporting
+
+---
+
+## Services
+
+I help businesses with:
+
+* Power BI Dashboard Development
+* SQL Data Analysis
+* Business Intelligence Solutions
+* KPI and Performance Reporting
+* Data Cleaning and Transformation
+* Customer and Sales Analytics
+* Microsoft Fabric Analytics Solutions
+* Interactive Reporting and Visualization
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/rabailshafeeq
+
+Email: rabailshafeeq312@gmail.com
+
+
+---
+
+Committed to delivering data-driven solutions that help organizations improve performance, understand customers, and make informed business decisions.
